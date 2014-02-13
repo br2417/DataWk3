@@ -118,7 +118,6 @@
 					console.log("finished friendly/unfriendly list");
 					console.log(FriendlyAnimals);
 					console.log(UnfriendlyAnimals);
-				
-				//FIRST COMMIT
+	
 				
 				
